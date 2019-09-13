@@ -1,0 +1,3 @@
+variables "test" {
+  default = "Hi"
+}
